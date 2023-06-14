@@ -10,5 +10,6 @@ class Addition
 		System.out.println("This is the last statement");
 		System.out.println("This is commit1");
 		System.out.println("This is commit2");
+		System.out.println("This is commit3");
 	}
 }
