@@ -7,5 +7,6 @@ class Addition
 		n2=35;
 		sum=n1+n2;
 		System.out.println("The sum value is : "+sum);
+		System.out.println("Hello All Thank you");
 	}
 }
