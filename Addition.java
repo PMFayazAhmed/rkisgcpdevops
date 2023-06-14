@@ -9,5 +9,6 @@ class Addition
 		System.out.println("The sum value is : "+sum);
 		System.out.println("This is the last statement");
 		System.out.println("This is commit1");
+		System.out.println("This is commit2");
 	}
 }
